@@ -2,7 +2,8 @@ require 'pry'
 
 def my_each(words) # put argument(s) here
  # binding.pry
- while 
+ counter = 0 
+ while counter 
  
  end 
 end 
