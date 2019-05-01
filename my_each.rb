@@ -8,5 +8,5 @@ def my_each(words) # put argument(s) here
   
  counter += 1 
  end 
-  return words
+  return words.length
 end 
